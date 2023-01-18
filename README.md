@@ -1,6 +1,6 @@
 # fq
 
-原始仓库：
+原始仓库：  
 
 qx资源解析器
 https://github.com/KOP-XIAO/QuantumultX
@@ -14,6 +14,9 @@ https://github.com/DivineEngine/Profiles/tree/master
 https://github.com/app2smile/
 
 
+👩‍🏫教程👩‍🏫
+kjfx
+https://github.com/kjfx/QuantumultX
 
 
 🥱懒人配置🥱
