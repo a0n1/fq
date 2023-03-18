@@ -23,6 +23,9 @@ https://github.com/Orz-3/QuantumultX
   
 w37fhy  
 https://github.com/w37fhy/QuantumultX  
+
+Infatuation-Fei
+https://github.com/Infatuation-Fei/rule   
 ****
 ⬇️杂项⬇️  
 Coldvvater （个人自用）  
