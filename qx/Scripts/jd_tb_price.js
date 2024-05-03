@@ -24,7 +24,7 @@ const $ = new Env(ScriptName);
 
 const ScriptIdentifier = "jd_tb_price";
 const ScriptVersion = 8;
-const ScriptUrl = `https://service.2ti.st/QuanX/Script/${ScriptIdentifier}`
+const ScriptUrl = `https://raw.githubusercontent.com/a0n1/wall/main/qx/Scripts/${ScriptIdentifier}`
 
 const res = $request;
 const resp = isUndefined($response) ? null : $response;
