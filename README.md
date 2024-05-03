@@ -14,7 +14,7 @@
 |                                                                                                                                |         |                                                                        |                                                                                                   |
 | [京东淘宝比价](https://raw.githubusercontent.com/zwf234/rules/master/QuantumultX/price.conf)                                         | 历史价格    | [zwf234](https://github.com/zwf234/rules)                              | [raw](https://raw.githubusercontent.com/a0n1/wall/main/qx/rewrite/jd_tb_price.conf)               |
 | [京东比价](https://raw.githubusercontent.com/githubdulong/Script/master/jd_price2.sgmodule)                                        | 历史价格    | [githubdulong](https://github.com/githubdulong/Script)                 | [raw](https://raw.githubusercontent.com/a0n1/wall/main/qx/rewrite/jd_price.conf)                  |
-|                                                                                                                                |         |                                                                        |                                                                                                   |
+| [京东淘宝比价](https://raw.githubusercontent.com/w37fhy/QuantumultX/master/QuantumultX_JS.conf)淘宝失效                                  | 历史价格    | [w37fhy](https://github.com/w37fhy/QuantumultX)                        | [raw](https://raw.githubusercontent.com/a0n1/wall/main/qx/rewrite/jd_tb_price_w37fhy.conf)        |
 
 毒奶博主（去广告）  
 https://github.com/limbopro/Adblock4limbo
